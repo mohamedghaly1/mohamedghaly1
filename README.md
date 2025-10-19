@@ -2,7 +2,7 @@
 
 I am an AI enthusiast with a strong foundation in deep learning and machine learning, gained through hands-on projects and academic research. Working on real-world AI applications has equipped me with experience in data pre-processing, model training, and performance evaluation.
 
-E-mail: mohamdyghaly2002@gmail.com
+E-mail: mohamedghaly.cs@gmail.com
 
 Linkedin: https://www.linkedin.com/in/mohamed-ghaly-894558203
 
