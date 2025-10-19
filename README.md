@@ -4,7 +4,7 @@ I am an AI enthusiast with a strong foundation in deep learning and machine lear
 
 E-mail: mohamedghaly.cs@gmail.com
 
-Linkedin: https://www.linkedin.com/in/mohamed-ghaly-894558203
+Linkedin: https://www.linkedin.com/in/mohamed-ghaly-ai
 
 
 <!--
